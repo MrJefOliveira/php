@@ -1,6 +1,6 @@
 # CRUD em PHP
 
-CRUD desenvolvido em PHP e Postgres.
+CRUD desenvolvido em PHP, Postgres, Bootstrap, HTML, CSS e JavaScript.
 
 ## Ferramentas utilizadas
 
